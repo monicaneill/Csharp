@@ -66,7 +66,7 @@ namespace MyCalculator
             }
 
             Console.Write("Press ENTER key to end program.");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
